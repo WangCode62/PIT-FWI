@@ -1,0 +1,21 @@
+name: pit
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - numpy=1.23.5
+  - scipy=1.11.1
+  - matplotlib=3.7.2
+  - ipython=8.15.0
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - pytorch=2.6.*
+  - pytorch-cuda=12.4
+  - torchvision
+  - pip
+  - pip:
+      - deepwave
