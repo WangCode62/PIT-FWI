@@ -14,3 +14,13 @@ Then run:
 ```bash
 conda env create -f environment.yml
 conda activate your_env_name
+```
+
+### Scripts for Running FWI
+***In this repo, there are four scripts for running FWI:***  
+
+1.[main.ipynb](./main.ipynb)The main scripts demonstrate the performance of PIT-FWI.  
+2.[forward_module.py](./forward_module.py)provides the forward modeling workflow.  
+3.[functions_module.py](./functions_module.py)provides the functions used in the main script.  
+4.[network_module.py](./network_module.py)provides the neural network architecture.  
+5.[plot_module.py](./plot_module.py)provides visualization and plotting utilities.  
