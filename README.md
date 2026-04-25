@@ -36,7 +36,7 @@ Two velocity single-trace profiles are shown in the figure.
 
 ***If you would like to explore more experimental results, please run the other main scripts.***  
 
-1.[main_low5.ipynb](./main_low5.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of missing low-frequency information below 5 Hz.      
-2.[main_low8.ipynb](./main_low8.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of missing low-frequency information below 8 Hz.
-3.[main_noise10.ipynb](./main_noise10.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of a data signal-to-noise ratio of 10 dB..   
-4.[main_noise20.ipynb](./main_noise20.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of a data signal-to-noise ratio of 20 dB..   
+1.[main_low5.ipynb](./main_low5.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of missing low-frequency information below 5 Hz.          
+2.[main_low8.ipynb](./main_low8.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of missing low-frequency information below 8 Hz.    
+3.[main_noise10.ipynb](./main_noise10.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of a data signal-to-noise ratio of 10 dB.     
+4.[main_noise20.ipynb](./main_noise20.ipynb)Demonstrates the inversion results of PIT-FWI under the condition of a data signal-to-noise ratio of 20 dB.     
