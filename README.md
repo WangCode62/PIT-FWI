@@ -24,3 +24,5 @@ conda activate your_env_name
 3.[functions_module.py](./functions_module.py)provides the functions used in the main script.  
 4.[network_module.py](./network_module.py)provides the neural network architecture.  
 5.[plot_module.py](./plot_module.py)provides visualization and plotting utilities.  
+
+The result of running this code for 21 shots with 1000 epochs on the Sigsbee model is shown in the following figures.
